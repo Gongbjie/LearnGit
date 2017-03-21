@@ -47,7 +47,7 @@
 
 # 技能清单
 
-- iOS开发：Objective-C
+- iOS开发：Objective-C、swift
 - 开发工具：Xcode
 - 版本管理、文档：SVN/Git、Markdown
 
